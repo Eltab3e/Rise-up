@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to Rise-Up 👋</h1>
-<h3 align="center">Blog post website.</h3>
+<h1 align="center">Welcome 👋</h1>
+<h3 align="center">Rise-Up is a platform empowering digital products.</h3>
 
 <h3 align="left">Screenshots:</h3>
 <img src="https://drive.google.com/uc?id=1lQ7wWRv3SKavhtu2P-I9ouuFtyurGQ2h" alt="image1" width="900">
@@ -8,18 +8,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-   </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-   </a> 
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-   </a>
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-   </a> 
+   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&labelColor=#000000" height="30" />
+   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=#F7DF1E" height="30" />
+   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=black&labelColor=#1572B6" height="30" />
 </p>
 
 ## Getting Started
